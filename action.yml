@@ -1,4 +1,4 @@
-name: 'Copy Build Artifact'
+name: 'Copy Build Artifacts'
 description: 'download an artifact'
 author: 'Asaf Halely'
 inputs:
