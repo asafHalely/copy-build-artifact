@@ -1,0 +1,22 @@
+name: 'Copy Build Artifact'
+description: 'download an artifact'
+author: 'Asaf Halely'
+inputs:
+  repo:
+    description: 'The repository to download from'
+  token:
+    description: 'The personal access token'
+  artifact_name:
+    description: 'The name of the artifact'
+  new_artifact_name:
+    description: 'test'
+  branch: 
+    description: 'test'
+  owner: 
+    description: 'test'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  color: 'yellow'
+  icon: 'download'
