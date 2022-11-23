@@ -1,8 +1,5 @@
 # Download Artifact Action
 
-[![Actions Status](https://github.com/bettermarks/action-artifact-download/workflows/Lint/badge.svg)](https://github.com/bettermarks/action-artifact-download/actions)
-[![Actions Status](https://github.com/bettermarks/action-artifact-download/workflows/Integration%20Test/badge.svg)](https://github.com/bettermarks/action-artifact-download/actions)
-
 This downloads an artifact from your build implemented in python.
 
 ## Usage
